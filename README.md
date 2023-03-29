@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=깃허브%2&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=깃허브%2&fontSize=90&animtion=scaleIn)
 
 [![*'s github stats](https://github-readme-stats.vercel.app/api?username=wellbeing98)](https://github.com/wellbeing98)
 
@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# heading1
+<!-- # heading1
 ## heading2
 ### heading3
 #### heading4
@@ -42,11 +42,13 @@ Here are some ideas to get you started:
 *3번
 
 
-[네이버](https:\\www.naver.com)
+[네이버](https:\\www.naver.com) -->
 
-```print("파이썬 코딩") ```
+```
+print("Hello-World")
+```
 ```
 코드형식으로 묶을 내용
 ```
- [x] 체크박스1
-- [ ] 체크박스2
+<!--  [x] 체크박스1
+- [ ] 체크박스2 -->
